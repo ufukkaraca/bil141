@@ -1,0 +1,6 @@
+Equation: y=9.0x^2-4.0x-10.0
+Discriminant: 376.00. Therefore, there are two real roots.
+1st root: 1.30
+2nd root: -0.86
+For x=7.00, y equals to 403.00.
+For x=2.00, y equals to 18.00.
